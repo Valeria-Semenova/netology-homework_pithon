@@ -1,0 +1,1 @@
+2026-10-05 20:45:55,058 | ERROR | brokens.csv: ValueError: Отсутствуют колонки: {'shipping_method', 'currency', 'total_amount', 'status', 'payment_method', 'person_id', 'notes', 'order_id', 'order_date'}
